@@ -1,5 +1,4 @@
-<?php
-$result = shell_exec('ls');
+shell_exec('ls');
 
-echo "<pre>$result</pre>";
-?>
+
+
